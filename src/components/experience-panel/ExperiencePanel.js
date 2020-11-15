@@ -27,6 +27,9 @@ class ExperiencePanel extends Component {
                   <Media className={styles.media}>
                     <Media left top href={experience.url}>
                       <Media
+                      // object
+                      // src={experience.logo}
+                      // alt={experience.companyName}
                       />
                     </Media>
                     <Media body>
